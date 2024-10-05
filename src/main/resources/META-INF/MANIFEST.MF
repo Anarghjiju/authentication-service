@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.demo.authentication_service.AuthenticationServiceApplica
+ tion
+
